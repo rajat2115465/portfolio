@@ -63,7 +63,7 @@ a {
 }
 
 a:hover {
-  color: color-mix(in srgb, var(--accent-color), transparent 25%);
+  color: red;
   text-decoration: none;
 }
 
